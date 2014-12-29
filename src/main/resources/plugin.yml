@@ -1,0 +1,6 @@
+name: ${project.name}
+main: net.nekonekoserver.nekoneko.nc.jump.NCJump
+version: ${project.version}
+commands:
+    ncjump:
+        usage: <command> reload
